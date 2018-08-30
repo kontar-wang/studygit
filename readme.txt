@@ -2,4 +2,4 @@ Git is a distributed version control system
 Git is free software distributed under the GPLS
 i study git
 git trace record files
-create a branch quickly & simple
+create a new branch quickly and simple
